@@ -1,0 +1,19 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 70%;
+}
+
+th {
+    background-color: rgb(243, 136, 154);
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    color: blue;
+}
